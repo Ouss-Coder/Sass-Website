@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AACA,MAAM;EACF,gBAAgB,EAAE,KAAK",
-"sources": ["../SASS/layouts/_footer.sass"],
+"mappings": "",
+"sources": [],
 "names": [],
 "file": "app.css"
 }
